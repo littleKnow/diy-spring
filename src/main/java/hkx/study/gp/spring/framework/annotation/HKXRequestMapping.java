@@ -1,10 +1,10 @@
-package hkx.study.gp.spring.annotation;
+package hkx.study.gp.spring.framework.annotation;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 @Retention(RetentionPolicy.RUNTIME)
-public @interface HKXRequestParam {
+public @interface HKXRequestMapping {
 
     String value();
 

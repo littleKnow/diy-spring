@@ -1,9 +1,9 @@
-package hkx.study.gp.spring.mapping;
+package hkx.study.gp.spring.framework.webmvc.handler;
 
 import java.lang.reflect.Method;
 import java.util.List;
 
-public class HandlerMapping {
+public class Handler {
 
     private Object handler;
     private Method method;

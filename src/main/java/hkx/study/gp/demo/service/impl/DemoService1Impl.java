@@ -1,7 +1,7 @@
-package hkx.study.gp.spring.service.impl;
+package hkx.study.gp.demo.service.impl;
 
-import hkx.study.gp.spring.annotation.HKXService;
-import hkx.study.gp.spring.service.DemoService1;
+import hkx.study.gp.spring.framework.annotation.HKXService;
+import hkx.study.gp.demo.service.DemoService1;
 
 @HKXService
 public class DemoService1Impl implements DemoService1 {

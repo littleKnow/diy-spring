@@ -1,4 +1,4 @@
-package hkx.study.gp.spring.service;
+package hkx.study.gp.demo.service;
 
 public interface DemoService1 {
 
